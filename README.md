@@ -60,6 +60,15 @@
 * If the CAPS LOCK key is pressed, the keyboard switches to an alternative layout designed to produced IPA for St. Lawrence Island Yupik by typing in the St. Lawrence Island Yupik Latin orthography. The layout uses [dead keys](https://en.wikipedia.org/wiki/Dead_key) to accomplish this.
 
 
+## Modifying and reinstalling
+
+If you want to modify the keylayout and then reinstall it, do the following:
+
+* In the Input Sources tab of the macOS Keyboard Preferences, use the - sign to remove "Yupik (Dvorak IPA)".
+* Make any edits you desire to the `Dvorak Yupik IPA.keylayout` file
+* Follow the instructions listed above for installing the modified file.
+
+
 ## License
 
 * The image files were created by Lane Schwartz using data from [OpenStreetMap](http://www.openstreetmap.org), and are therefore licensed under the [Open Data Commons Open Database License (ODbL) v1.0](https://opendatacommons.org/licenses/odbl).
